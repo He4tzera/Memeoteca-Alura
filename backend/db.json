@@ -1,18 +1,6 @@
 {
   "pensamento": [
     {
-      "id": 1,
-      "conteudo": "Teste DB",
-      "autoria": "Eduardo",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 4,
-      "conteudo": "Jesus é e o diabo não presta ",
-      "autoria": "Eduardo ",
-      "modelo": "modelo3"
-    },
-    {
       "id": 5,
       "conteudo": "Vasco maior q botafogo",
       "autoria": "Eduardo",
@@ -20,15 +8,15 @@
     },
     {
       "id": 6,
-      "conteudo": "Palmeiras maior da liberta",
+      "conteudo": "Palmeiras maior do brasil",
       "autoria": "Abel Fereira",
-      "modelo": "modelo1"
+      "modelo": "modelo2"
     },
     {
-      "id": 7,
-      "conteudo": "A taça libertadores é obsessão ",
-      "autoria": "Abel Fereira",
-      "modelo": "modelo3"
+      "id": 8,
+      "conteudo": "Testando o editar pensamento ",
+      "autoria": "Eduardo ",
+      "modelo": "modelo2"
     }
   ]
 }
